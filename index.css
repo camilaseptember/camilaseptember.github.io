@@ -1,0 +1,90 @@
+/* 11.c règle locale pour l'image de fond */
+#earl_grey {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: #a598afa4;
+
+}
+
+h2 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #6e69a2;
+
+}
+
+.card-title,
+.poem-title {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1.5rem;
+    font-style: bold;
+    color: #dad7f4;
+}
+
+.poem-text {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1em;
+    color: #ffffff;
+}
+
+.poem-author {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+    color: #dad7f4;
+}
+
+.blockquote {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: bold;
+    color: #312c69;
+}
+
+a.dropdown-item,
+a.nav-link,
+.navbar-toggler {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1.5rem;
+    color: #231c69;
+}
+
+a.dropdown-item:hover,
+a.nav-link:hover,
+.btn-close:hover,
+.btn:hover {
+    color: #6e69a2;
+}
+
+figcaption.blockquote-footer,
+.cite {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+    color: #ffffff;
+}
+
+.carousel-caption {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 1em;
+    color: #ffffff;
+}
+
+.btn,
+.bi {
+    background-color: #6e69a2b8;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn:hover,
+.bi:hover {
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
